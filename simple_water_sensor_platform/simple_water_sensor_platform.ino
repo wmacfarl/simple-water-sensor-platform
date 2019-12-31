@@ -10,12 +10,12 @@
 
 #define NUMBER_OF_SENSORS 6
 
-#define TURBIDITY_URL "https://www.dfrobot.com/product-1394.html"
+#define TURBIDITY_URL "https://wiki.dfrobot.com/Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237"
 #define PH_URL "https://wiki.dfrobot.com/PH_meter_SKU__SEN0161_"
 #define CONDUCTIVITY_URL "https://wiki.dfrobot.com/Gravity__Analog_Electrical_Conductivity_Sensor___Meter_V2__K=1__SKU_DFR0300"
-#define DISSOLVED_OXYGEN_URL "https://www.dfrobot.com/product-1628.html"
+#define DISSOLVED_OXYGEN_URL "https://wiki.dfrobot.com/Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237"
 #define ORP_URL "https://wiki.dfrobot.com/Analog_ORP_Meter_SKU_SEN0165_"
-#define TDS_URL "https://www.dfrobot.com/product-1662.html"
+#define TDS_URL "https://wiki.dfrobot.com/Gravity__Analog_TDS_Sensor___Meter_For_Arduino_SKU__SEN0244"
 
 #define JUMPER_PIN 3
 
